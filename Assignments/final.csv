@@ -1,0 +1,9 @@
+URLS,RESPONSE
+URLS,RESPONSE
+https://example.com,200
+https://example.org,200
+https://example.net,200
+https://example.int,Invalid
+https://example.edu,200
+https://example.gov,Invalid
+https://example.mil,Invalid
